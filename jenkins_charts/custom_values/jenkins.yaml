@@ -1,0 +1,6 @@
+controller:
+   ingress:
+       enabled: true
+       paths: []
+       apiVersion: "extensions/v1beta1"
+       hostName: jenkins.example.com
